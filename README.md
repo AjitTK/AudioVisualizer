@@ -18,7 +18,7 @@ Project stack
 $ npm install
 $ npm start
 `````````````````````````````
-to view page browse via link http://127.0.0.1:8000/ upload a mp3 any enjoy 
+to view page browse via link http://127.0.0.1:8000/ upload a mp3 and enjoy 
 
 
 

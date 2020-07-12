@@ -3,10 +3,11 @@
 
 Audio visualizer create visual representation of sound based on bass mid treble.
 
-below is project stack
+This is how you can visualize it
 
 ![picture](page.jpg)
 
+Project stack
   - HTML
   - CSS
   - JAVASCRIPT & P5.js framework

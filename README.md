@@ -1,7 +1,9 @@
-# Audio Visualizer
+# Audio Visualizer 
 
 
-Audio visualizer is p5 js base node & javascript application.below are project component
+Audio visualizer create visual representation of sound based on bass mid treble.
+
+below is project stack
 
 ![picture](page.jpg)
 
@@ -15,7 +17,7 @@ Audio visualizer is p5 js base node & javascript application.below are project c
 $ npm install
 $ npm start
 `````````````````````````````
-to view page browse via link http://127.0.0.1:8000/ 
+to view page browse via link http://127.0.0.1:8000/ upload a mp3 any enjoy 
 
 
 
